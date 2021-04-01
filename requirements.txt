@@ -1,0 +1,6 @@
+streamlit
+opencv-python==4.2.0.34
+wheel==0.35
+streamlit_drawable_canvas
+numpy==1.19.2
+tensorflow-cpu
